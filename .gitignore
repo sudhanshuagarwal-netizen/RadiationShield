@@ -1,0 +1,26 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data and models
+data/
+models/
+*.pth
+*.pt
+
+# Results
+results/*.png
+results/*.jpg
+
+# Notebooks
+*.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
