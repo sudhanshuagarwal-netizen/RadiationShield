@@ -9,7 +9,7 @@ __pycache__/
 *.pyd
 
 # Data and models
-data/
+# data/  # Commented out for now so we can commit src/data/dataset.py
 models/
 *.pth
 *.pt
